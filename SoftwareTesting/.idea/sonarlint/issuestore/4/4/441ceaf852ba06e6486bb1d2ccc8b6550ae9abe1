@@ -1,0 +1,36 @@
+
+bsquid:S1192Ï"JDefine a constant instead of duplicating this literal "user_name" 5 times.(êñáã
+dsquid:S1192µ"GDefine a constant instead of duplicating this literal "/login" 3 times.(´——Ëùÿÿÿÿ
+usquid:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ¾´Êûÿÿÿÿ
+U
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(Ú„©ùÿÿÿÿ
+jsquid:CommentedOutCodeLine¨"<This block of commented-out lines of code should be removed.(ÍáÅ8»¹Í¹°-
+jsquid:CommentedOutCodeLine«"<This block of commented-out lines of code should be removed.(Ñ·Á8üîÏ¹°-
+jsquid:S00117Ï"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êñáã
+jsquid:S1192v"SDefine a constant instead of duplicating this literal "base_page.html.ftl" 5 times.(·ÒÿË
+_squid:S1192›"GDefine a constant instead of duplicating this literal "rocket" 3 times.(İ›ºµ
+Csquid:S1481ê"+Remove this unused "rocket" local variable.(‡½Îõ
+Jsquid:S1135Û"2Complete the task associated to this TODO comment.(‡ÿ×¬
+Jsquid:S1135ˆ"2Complete the task associated to this TODO comment.(’İã²
+jsquid:S00117İ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éïË÷
+bsquid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(ıñÅ×
+_squid:S1192·"GDefine a constant instead of duplicating this literal "/hello" 3 times.(‘áû€
+U
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ
+gsquid:S1192Ö"ODefine a constant instead of duplicating this literal "login.html.ftl" 3 times.(õ±¥Ø
+asquid:S1192€"IDefine a constant instead of duplicating this literal "lastName" 3 times.(–â²â
+fsquid:S1192"JDefine a constant instead of duplicating this literal "firstName" 3 times.(ÀÑõüÿÿÿÿ
+fsquid:S1192ï"IDefine a constant instead of duplicating this literal "errorMsg" 5 times.(Ğ›ˆıûÿÿÿÿ
+Jsquid:S1135µ"2Complete the task associated to this TODO comment.(°ÚÖš
+Jsquid:S1135Ê"2Complete the task associated to this TODO comment.(¾§‘
+U
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(íïµ®üÿÿÿÿ
+]squid:S1192~"FDefine a constant instead of duplicating this literal "email" 3 times.(…èÕ
+csquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(ßŠ¨Ø
+bsquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(…èü
+P
+squid:S106´"9Replace this use of System.out or System.err by a logger.(Î€“‚
+Ysquid:UselessImportCheck"0Remove this unused import 'java.time.LocalTime'.(à®øÃùÿÿÿÿ
+U
+squid:S106»"9Replace this use of System.out or System.err by a logger.(ØÓÜ¥şÿÿÿÿ
+@squid:S1148‰"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
